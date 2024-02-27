@@ -20,10 +20,10 @@ I'm currently studying content related to Frontend Development. Last subjects of
   <img align="center" alt="Vitor-Jest" height="25" width="70" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt="Vitor-RTL" height="25" width="120" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
 </div>
-##
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Sales&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Sales&layout=compact&theme=dark)
 
 <!--
 **Vitor-Sales/Vitor-Sales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
