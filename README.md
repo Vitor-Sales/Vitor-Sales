@@ -40,7 +40,7 @@ I am currently studying Backend Development, aiming to become a Fullstack Develo
 ### Connect With Me
 
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/vitor-ml-sales/">
+  <a href="https://www.linkedin.com/in/vitor-ml-sales/" target="_blank">
    <img align="center" alt="Vitor-NodeJS" height="25" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>  
 </div>
