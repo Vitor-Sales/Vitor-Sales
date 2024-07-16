@@ -21,6 +21,12 @@ I'm currently studying content related to Frontend Development. Last subjects of
   <img align="center" alt="Vitor-RTL" height="25" width="120" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
 </div>
 
+## Backend
+ 🌱 Currently learning...
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Vitor-NodeJS" height="25" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ </div>
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Sales&layout=compact&theme=dark)
