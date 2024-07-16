@@ -23,10 +23,10 @@ I'm currently studying content related to Frontend Development. Last subjects of
 
 ### Backend - 🌱 Currently learning...
  <div style="display: inline_block"><br>
-   <img align="center" alt="Vitor-NodeJS" height="25" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="Vitor-Docker" height="25" width="70" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-   	<img align="center" alt="Vitor-MySQL" height="25" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Vitor-Sequelize" height="25" width="70" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+   <img align="center" alt="Vitor-NodeJS" height="25" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   <img align="center" alt="Vitor-Docker" height="25" width="90" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+   	<img align="center" alt="Vitor-MySQL" height="25" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Vitor-Sequelize" height="25" width="120" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
  </div>
 
 ---
