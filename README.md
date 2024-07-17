@@ -37,7 +37,11 @@ I am currently studying Backend Development, aiming to become a Fullstack Develo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Sales&layout=compact&theme=dark)
 
-### Connect With Me
+## Languages
+🇺🇸 English - fluent
+🇧🇷 Portuguese - native
+
+## 🌐 Connect With Me
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/vitor-ml-sales/" target="_blank">
