@@ -1,10 +1,14 @@
 # Hey, I'm Vitor Sales
-
+<!--
 Fullstack student at Trybe - Class 38
 
 Completed over 15 projects focused on Frontend, with an emphasis on user experience. I continually bring new expertise through a mindset of continuous learning.
 
 I am currently studying Backend Development, aiming to become a Fullstack Developer with a comprehensive understanding of how applications function as a whole. Each new piece of knowledge enhances my professional capabilities and improves my ability to deliver top-quality applications.
+-->
+
+I am a <strong>full stack developer</strong> with a focus in frontend. My aim is to always be in the process of continuous learning, improving the stacks that I know and adding new skills that will make me a more complete professional.
+
 
 ## Hard Skills 
 
