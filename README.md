@@ -51,10 +51,16 @@ I am a <strong>Full Stack Developer</strong> with a strong focus on frontend dev
   <img align="center" alt="Vitor-GitHub" height="25" width="90" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=GitHub">
  </div>
  
-###🌱 Currently learning...
-Software Engineer Bachelor at Descomplica Faculdade Digital
-
-UX Design - Google Certificate
+### Currently learning...
+🌱
+<ul>
+  <li>
+    Software Engineer Bachelor at Descomplica Faculdade Digital    
+  </li>
+  <li>
+    UX Design - Google Certificate    
+  </li>
+</ul>
 
 ---
 
